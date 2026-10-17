@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Hi,%20I'm%20Daniel%20Liu%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-**Statistics @ Northwestern (ML & Data Science minor)**
+**Statistics and Economics @ Northwestern **
 
 <a href="mailto:daliu25@163.com"><img src="https://img.shields.io/badge/Email-daliu25%40163.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/daniel-liu-648566240"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
